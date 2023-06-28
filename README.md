@@ -1,3 +1,3 @@
 # Arduino_Robot
-Obstacle-avoiding robot with RGB light
-<img src="Arduino_Robot\Screenshot 2023-06-28 203443.png"width="50%" height="50%">12
+Obstacle-avoiding robot with RGB light<br>
+<img src="https://github.com/alizayan684/Arduino_Robot/blob/main/Screenshot%202023-06-28%20203443.png" width="100%" height="100%">
